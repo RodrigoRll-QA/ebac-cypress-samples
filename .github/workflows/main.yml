@@ -1,6 +1,11 @@
 name: Cypress Tests with Allure Report
 on: [push, pull_request]
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   cypress-run:
     runs-on: ubuntu-latest
