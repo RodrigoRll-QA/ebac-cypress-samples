@@ -4,13 +4,15 @@
   "description": "Default Cypress Tests",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress run" 
-    
+    "test": "npx cypress run"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cypress": "^15.1.0"
+  },
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.41.2"
   }
 }

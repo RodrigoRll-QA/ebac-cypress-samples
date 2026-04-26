@@ -1,4 +1,5 @@
 /// <reference types="cypress" />
+import '@shelex/cypress-allure-plugin';
 context('Waiting', () => {
   beforeEach(() => {
     cy.visit('https://example.cypress.io/commands/waiting')

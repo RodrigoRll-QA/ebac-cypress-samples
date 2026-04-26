@@ -1,4 +1,5 @@
 /// <reference types="cypress" />
+import '@shelex/cypress-allure-plugin';
 
 /// JSON fixture file can be loaded directly using
 // the built-in JavaScript bundler

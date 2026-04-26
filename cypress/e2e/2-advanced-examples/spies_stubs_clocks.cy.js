@@ -1,4 +1,5 @@
 /// <reference types="cypress" />
+import '@shelex/cypress-allure-plugin';
 
 context('Spies, Stubs, and Clock', () => {
   it('cy.spy() - wrap a method in a spy', () => {
