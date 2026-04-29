@@ -4,6 +4,7 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?style=for-the-badge&logo=github-actions)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Reports](https://img.shields.io/badge/Reports-Allure-yellow?style=for-the-badge)
+![EBAC](https://img.shields.io/badge/EBAC-QE-%23E30613?style=for-the-badge)
 
 ## 📝 Descrição Técnica
 Este repositório contém uma suíte de automação E2E robusta desenvolvida com **Cypress**. O projeto foi estruturado com foco em cenários reais de Qualidade de Software, integrando fluxos de **CI/CD** e relatórios dinâmicos para garantir visibilidade e estabilidade nas entregas.
